@@ -19,7 +19,7 @@ url to API: https://mchsoft.com/demos/upc/api/api.php
 
 All the queries have to be done through POST method.
 Go to https://mchsoft.com/demos/upc/api for a more detailed and complete demo.
-User manual "https://mchsoft.com/demos/upc/api/freebarcodesapi V0.2.pdf"
+User manual https://mchsoft.com/demos/upc/api/freebarcodesapiV0.2.pdf
 
 The system has to use modes, stand alone, and database.
 
