@@ -25,8 +25,8 @@ The system has to use modes, stand alone, and database.
 
 STAND ALONE  mode:
 
-You will only able to get the barcode image (base64 encode) from the code passed as Parametereter showing the label passed if any if not label passed it will show “FREE BARCODE”.
-Note: to show the actual image for the code add the Parametereter show=true.
+You will only be able to get the barcode image (base64 encode) from the code passed as Parametereter showing the label passed if any, if not label gave it, will display “FREE BARCODE”. 
+Note: To show the code's actual image, add the Parametereter show=true.
 
 Example 1: only showing the image base64 encode
 Parameters: code=184416660123, label=it is the label
