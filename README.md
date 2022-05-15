@@ -54,7 +54,7 @@ Array
 
 
 DATABASE mode:
-You can create a free account at https://mchsoft.com/demos/upc/upc.htm sign in button.
+You can create a free account at https://mchsoft.com/demos/upc/register.html.
 
 Login into the system for accessing to database functionality.
 Default Parameters:
