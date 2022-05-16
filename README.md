@@ -8,7 +8,7 @@ https://mchsoft.com
 
 
                                       
-
+This API has been designed with the intention of facilitating the way of creating and obtaining UPC barcodes through an API service that is easy to configure and use by POST access method. These codes are recommended for internal use only by organizations. Please read the disclaimer.
 
 
 Version 0.2
